@@ -1,3 +1,4 @@
+ [![Build](https://github.com/vi-ht/BookMenu/actions/workflows/build.yml/badge.svg)](https://github.com/vi-ht/BookMenu/actions/workflows/build.yml)
  
 # Welcome to BookMenu repository
 Build a dll assembly, call BookLib.dll that supports the following features:
