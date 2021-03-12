@@ -1,0 +1,10 @@
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\bin\Debug\Booklib.dll
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\bin\Debug\Booklib.pdb
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\obj\Debug\LAB_PRN_SE140984.csprojAssemblyReference.cache
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\obj\Debug\LAB_PRN_SE140984.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\obj\Debug\LAB_PRN_SE140984.csproj.CopyComplete
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\bin\Debug\LAB_PRN_SE140984.exe.config
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\bin\Debug\LAB_PRN_SE140984.exe
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\bin\Debug\LAB_PRN_SE140984.pdb
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\obj\Debug\LAB_PRN_SE140984.exe
+C:\Users\123\OneDrive\Máy tính\ConsoleApp2\obj\Debug\LAB_PRN_SE140984.pdb
