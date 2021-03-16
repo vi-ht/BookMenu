@@ -1,6 +1,6 @@
  [![Build](https://github.com/vi-ht/BookMenu/actions/workflows/build.yml/badge.svg)](https://github.com/vi-ht/BookMenu/actions/workflows/build.yml)
  
-# Welcome to BookMenu repository
+# 📕 Welcome to BookMenu repository 📕 
 Build a dll assembly, call BookLib.dll that supports the following features:
 Add a book to the list. Book’s details: id, name, author,  publisher.
 Remove a book from the list
@@ -11,9 +11,9 @@ Build a client console application that uses the BookLib.dll. A menu should be p
 * BookMenu C# source code
 * .gitignore file to tell Git which ones will be uploaded
 * README.md - this file ifself to show the home page of this repo
-
-## Connect me via
-1. [facebook](https://www.facebook.com/merry.kute.31/)
-2. [Email](mailto:thanhviii888@gmail.com)
+* 
+## 💬 Connect me via ❓ 
+  * [facebook](https://www.facebook.com/merry.kute.31/)📌
+  * [Email](mailto:thanhviii888@gmail.com)✉️
 #### ⓒ 2021 by Thanh Vi
 
